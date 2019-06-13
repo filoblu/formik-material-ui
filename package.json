@@ -1,6 +1,6 @@
 {
-  "name": "formik-material-ui",
-  "version": "0.0.18",
+  "name": "fb-formik-material-ui",
+  "version": "0.0.19",
   "typings": "dist/main.d.ts",
   "peerDependencies": {
     "@material-ui/core": ">=4.0.0",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stackworx/formik-material-ui"
+    "url": "https://github.com/filoblu/formik-material-ui"
   },
   "jest": {
     "testURL": "http://localhost/",
